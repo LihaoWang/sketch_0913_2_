@@ -1,5 +1,8 @@
 //LeoWang
 //windows error
+float colors1;
+float colors2;
+float colors3;
 
 void setup(){
   size(800, 800);
@@ -36,7 +39,10 @@ textAlign(CENTER);
 }
 
 void keyPressed(){
- background(0); 
+ colors1=random(255);
+ colors2=random(255);
+ colors3=random(255);
+ background(colors1,colors2,colors3); 
 }
 
 void mousePressed(){
