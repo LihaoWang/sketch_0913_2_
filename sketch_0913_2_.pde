@@ -1,4 +1,5 @@
-float number= 1;
+//LeoWang
+//windows error
 
 void setup(){
   size(800, 800);
@@ -51,24 +52,3 @@ void mousePressed(){
 
 
 }
-
-//notes
-//integer variables store integers
-//int
-
-//flaoting point variable
-//float
-
-//3 steps
-// name the variable
-//declare the data type
-//assign the value
-
-//int hamburger= 5
-// declare a variable called hamburger and assign a value of 5
-
-//addition +
-//subtraction -
-//multiplication *
-//divison /
-//assignment =
